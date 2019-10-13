@@ -1,0 +1,52 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: #3b5998
+}
+
+header h1{
+    font-weight: bold;
+}
+
+.form{
+    width: 95%;
+    margin: 0 auto;
+}
+
+#signin{
+    border:1px solid white;
+    background-color: skyblue;
+}
+
+#signup{
+    width: 90%;
+    margin: 0 auto;
+}
+
+#data{
+    background-color: #DEE3EE;
+}
+
+#birthday{
+    font-weight: bold;
+    font-size:20px;
+}
+
+#cookie{
+    width: 90%;
+    font-size: 2px;
+    text-align:justify;
+    margin: 10px auto;
+}
+
+#sign{
+    color: white;
+    width: 90%;
+    background-color: #67A253;
+}
+
+
